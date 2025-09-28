@@ -15,4 +15,4 @@ wget -q https://github.com/Wavex25/SADK1111111/raw/main/proxy
 sleep 1
 echo -e "${GREEN}Moon Proxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
-chmod +x proxygi
+chmod +x proxy
