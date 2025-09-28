@@ -11,8 +11,8 @@ if [ -f "proxy" ]; then
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/Wavex5/SADK1111111/raw/main/proxy
+wget -q https://github.com/Wavex25/SADK1111111/raw/main/proxy
 sleep 1
 echo -e "${GREEN}Moon Proxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
-chmod +x proxy
+chmod +x proxygi
