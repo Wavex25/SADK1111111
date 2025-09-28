@@ -13,11 +13,11 @@ OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 
 searchOffsetWithPattern|1
 ProxyServer|195.62.48.50
 ProxyServerPort|1234
-discord|discord.gg/moonproxy
-discordme|`b[`^.gg/moonproxy``]``
+discord|discord.gg/jne56ZqfQt
+discordme|`b[`9discord.gg/jne56ZqfQt``]``
 GrowtopiaIP|213.179.209.175
 GrowtopiaPort|17043|17043|17043|17043|17043
-KovatTyypit|owner|1vis1|kondee|Dabah|leksa
+KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
 UpdateURL|https://filepost.io/streamer?token=e629cfd460920dbf2b5ab5dd613aa32d085404b3cbca693418a2b1c53186a47a%7CB0Rm%2BLeIvvp3WkqSDc2a9uLctJ1EN4qlA%2Fi5rZQ5VLRZaF%2F4yvjQItKCQkmAzbKovkSO0C%2F%2BhIwWffOKc2sqoVdH7r2apIA%2BeKaRrQ2vXBA3WVjoUgtd6zFWpwBDiCKxnzdmzJ3ydd9Dts0SxVWz2D%2BNgo3pfg91aOTyYYEsPWOeTUOuqj13b8b7Mr4u60HR5Huko%2BY711opZemid2k7VGmxuSg%2Bzx0LJvUG%2BA%3D%3D--%2BDsusvMFPRPUqtpw--qz7LWwZ%2Fmi5wbgeTGE5dCA%3D%3D
 DiscordID|1210909836288729099
 TemporaryUse|0
@@ -31,12 +31,12 @@ AddSupportForNewItemsVersion|21|1
 LoginMessage3|
 UpdateMessage##|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
 UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
-Old_UpdateMSG|New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+Old_UpdateMSG|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
 UpdateMessage_ANDROID|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
 ProxyVersion|19.3
 ProxyVersion_ANDROID|18.6
 IgnoreNewVersion_PC|NONE|
-NewProxyLink|https://discord.gg/moonproxy
+NewProxyLink|https://github.com/JoakimTheCoder/DownloadProxy/raw/refs/heads/main/AJ%20Premium%20Proxy%20V19.3.exe
 
 
 CsnLink#|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)||0gjMxczNxQzNwQTN4cjN0czMx8ycldWYzNXZt9CS1pnQGRGW1hDWL1ENyQXbwN0S55mMh52cIRGZZ9FWlBVOIFEbfl2RFBDSjZTRKlVN3YlYE9UOFNXM0J2Th1kNOlUem9iN0UzN3EjM0gjNwMTM3YDN3MTMvM3av9GaiV2dvkGch9SbvNmLwBXYkJ3bjNXak9yL6MHc0RHa|1|json|content|
@@ -49,7 +49,7 @@ CsnLink#|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||[webhk]137467145903250
 CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||https://teamju.com/link|1|urlbody||
 CsnLink|/bet|`9(Warp To Newest `8TEAMBET`` Link)|BETREVIVE|
 AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
-AddSetLinkAdmins|teampay|Usernames:1vis1:owner|
+AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 
 
 AddGTPSInfo|Creative Private Server|51.75.87.53
@@ -99,7 +99,7 @@ GazzetteStart
 add_spacer|small
 add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
 add_spacer|small
-add_textbox|`9Proxy Creators `9[`^wave213x and ardacantabikii```9]``|left|2480|
+add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left|2480|
 add_spacer|small
 GazzetteEnd
 
@@ -111,8 +111,8 @@ AddModsList|27685196|`#@Mik3z
 AddModsList|67302|`#@Miu
 AddModsList|36299549|`#@Moniuet
 
-LoginMessage1|`^Proxy's Discord Server: `9https://discord.gg/moonproxy``
-LoginMessage4|
+LoginMessage1|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
+LoginMessage4|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
 LoginMessage5|
 LoginMessage2|
 teamdav|DAVPLAY34
