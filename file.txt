@@ -13,7 +13,7 @@ OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 
 searchOffsetWithPattern|1
 ProxyServer|195.62.48.50
 ProxyServerPort|1234
-discord|discord.gg/jne56ZqfQt
+discord|discord.gg/moonproxy
 discordme|`b[`9discord.gg/moonproxy``]``
 GrowtopiaIP|213.179.209.175
 GrowtopiaPort|17043|17043|17043|17043|17043
@@ -111,8 +111,8 @@ AddModsList|27685196|`#@Mik3z
 AddModsList|67302|`#@Miu
 AddModsList|36299549|`#@Moniuet
 
-LoginMessage1|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
-LoginMessage4|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
+LoginMessage1|
+LoginMessage4|
 LoginMessage5|
 LoginMessage2|
 teamdav|DAVPLAY34
